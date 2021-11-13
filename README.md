@@ -24,8 +24,8 @@ for i in Education.index():
 
 **Connect with me**
 <p align="left">
-<a href="https://fb.com/kookkik kanyakorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kookkik kanyakorn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanyakorn chomtiwang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanyakorn chomtiwang" height="30" width="40" /></a>
+<a href="https://web.facebook.com/kookkik.kanyakorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kookkik kanyakorn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanyakorn-chomtiwang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanyakorn chomtiwang" height="30" width="40" /></a>
 <a href="https://instagram.com/itskkkookkook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskkkookkook" height="30" width="40" /></a>
 </p>
 
@@ -36,6 +36,6 @@ for i in Education.index():
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanyakorn1134&show_icons=true&locale=en&layout=compact" alt="kanyakorn1134" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanyakorn1134&" alt="kanyakorn1134" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kanyakorn1134&" alt="kanyakorn1134" /></p>
 
 
