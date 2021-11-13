@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Kanyakorn :wave:</h1>
-<h3 align="center">3rd year student in Robotics and AI engineering, passionate about Machine Learning.</h3>
+<h3 align="center">Passionate about Machine Learning and Artificial Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanyakorn1134&label=Profile%20views&color=0e75b6&style=flat" alt="kanyakorn1134" /> </p>
 
